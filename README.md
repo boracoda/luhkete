@@ -31,13 +31,18 @@ Que tal continuarmos nossa caminhada juntos, compartilhando conhecimento e exper
 
 ## Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,php,ts,js,html,css,react,c,cpp,laravel,lua,linux,aws)](https://skillicons.dev)
+
+<div align='center'>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-movingpay&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <br><br>
 ## Estatísticas
-<div align='left'>
+<div align='center'>
   <br>
 <a href="https://github.com/lucas-movingpay"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-movingpay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>  
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-movingpay&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
