@@ -23,6 +23,13 @@ E muitas outras ao longo do caminho. Algumas tive experiência superior a 10 ano
 
 Que tal continuarmos nossa caminhada juntos, compartilhando conhecimento e experiências?
 
+## Estatísticas:
+
+<div>
+<a href="https://github.com/lucas-movingpay">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-movingpay&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-movingpay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Contatos:
 
