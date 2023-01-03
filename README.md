@@ -23,6 +23,10 @@ E muitas outras ao longo do caminho. Algumas tive experiência superior a 10 ano
 
 Que tal continuarmos nossa caminhada juntos, compartilhando conhecimento e experiências?
 
+## Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
 ###### Curiosidades
 
 <div>
