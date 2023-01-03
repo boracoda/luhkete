@@ -32,9 +32,7 @@ Que tal continuarmos nossa caminhada juntos, compartilhando conhecimento e exper
 ## Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,php,ts,js,html,css,react,c,cpp,laravel,lua,linux,aws)](https://skillicons.dev)
 
-<div align='center'>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-movingpay&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-movingpay&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 ## Estatísticas
