@@ -25,7 +25,7 @@ Que tal continuarmos nossa caminhada juntos, compartilhando conhecimento e exper
 
 ## Ferramentas e Tecnologias
 
-<i class="devicon-adonisjs-original-wordmark"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="40" height="40" /></i>
+<img class="devicon-adonisjs-original-wordmark" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="40" height="40" /></i>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="40" height="40" />
 
