@@ -30,7 +30,7 @@ E muitas outras ao longo do caminho. Algumas tive experiência superior a 10 ano
 Que tal continuarmos nossa caminhada juntos, compartilhando conhecimento e experiências?
 
 ## Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,php,ts,js,html,css,react,c,cpp,laravel,lua,linux,aws,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,php,ts,js,html,css,react,c,cpp,laravel,lua,linux,aws)](https://skillicons.dev)
 
 <div align='center'>
 <a href="https://github.com/lucas-movingpay"> 
