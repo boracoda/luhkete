@@ -26,6 +26,7 @@ Que tal continuarmos nossa caminhada juntos, compartilhando conhecimento e exper
 ## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java-original.svg" width="40" height="40"/>
 
 ###### Curiosidades
 
