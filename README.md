@@ -2,7 +2,26 @@
 
 Meu nome é Lucas Almeida. Vou contar um pouco da minha história para vocês:
 
-Entrei nesse mundo de tecnologia muito cedo, desde os 5 anos (;P)
+Entrei nesse mundo de tecnologia muito cedo, desde os 5 anos. Tive a experiência do avanço da internet no Brasil, versões do Windows 3.0 até a atualidade e muito mais! 
+
+Durante meu aprendizado em programação, conheci algumas das linguagens:
+
+- COBOL;
+- BASIC;
+- Pascal;
+- C e C++;
+- SQL;
+- Python;
+- Lua;
+- Ansi;
+- javaScript;
+- PHP;
+- TypeScript;
+- NodeJS;
+
+E muitas outras ao longo do caminho. Algumas tive experiência superior a 10 anos, desde projetos pessoais até grandes empresas.
+
+Que tal continuarmos nossa caminhada juntos, compartilhando conhecimento e experiências?
 
 
 ## Contatos:
