@@ -31,7 +31,7 @@ Que tal continuarmos nossa caminhada juntos, compartilhando conhecimento e exper
 
 ## Ferramentas e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,php,ts,js,html,css,react,c,cpp,laravel,lua,linux,aws)](https://skillicons.dev)<br />
+[![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,php,ts,js,html,css,react,c,cpp,laravel,lua,linux,aws)](https://skillicons.dev)<br>
 
 ## Estatísticas
 
