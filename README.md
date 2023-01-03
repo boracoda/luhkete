@@ -33,7 +33,7 @@ Que tal continuarmos nossa caminhada juntos, compartilhando conhecimento e exper
 [![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,php,ts,js,html,css,react,c,cpp,laravel,lua,linux,aws)](https://skillicons.dev)
 <br><br>
 ## Estatísticas
-<div align='center'>
+<div align='left'>
   <br>
 <a href="https://github.com/lucas-movingpay"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-movingpay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
