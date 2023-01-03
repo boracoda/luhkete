@@ -37,7 +37,7 @@ Que tal continuarmos nossa caminhada juntos, compartilhando conhecimento e exper
 
 ###### Curiosidades
 
-<div>
+<div align='center'>
 <a href="https://github.com/lucas-movingpay"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-movingpay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
