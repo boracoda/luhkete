@@ -40,4 +40,4 @@ Que tal continuarmos nossa caminhada juntos, compartilhando conhecimento e exper
   </a>  
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-movingpay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-movingpay&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
