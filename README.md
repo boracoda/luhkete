@@ -30,14 +30,9 @@ E muitas outras ao longo do caminho. Algumas tive experiência superior a 10 ano
 Que tal continuarmos nossa caminhada juntos, compartilhando conhecimento e experiências?
 
 ## Ferramentas e Tecnologias
-
-<img class="devicon-adonisjs-original-wordmark" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="40" height="40" /></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="40" height="40" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <div align='center'>
 <a href="https://github.com/lucas-movingpay"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-movingpay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-  
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
