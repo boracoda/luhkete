@@ -37,6 +37,7 @@ Que tal continuarmos nossa caminhada juntos, compartilhando conhecimento e exper
   <br>
 <a href="https://github.com/lucas-movingpay"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-movingpay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </a>  
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-movingpay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
