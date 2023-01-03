@@ -1,6 +1,6 @@
 ### Fala Dev, que tal compartilhar suas experiências comigo?
 
-Meu nome é Lucas Almeida. Vou contar um pouco da minha história para vocês:
+Meu nome é Lucas Almeida, tenho 31 anos. Vou contar um pouco da minha história para vocês:
 
 Entrei nesse mundo de tecnologia muito cedo, desde os 5 anos. Tive a experiência do avanço da internet no Brasil, versões do Windows 3.0 até a atualidade e muito mais! 
 
