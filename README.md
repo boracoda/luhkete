@@ -1,6 +1,8 @@
 ### Fala Dev, que tal compartilhar suas experiências comigo?
 
-Meu nome é Lucas Almeida.
+Meu nome é Lucas Almeida. Vou contar um pouco da minha história para vocês:
+
+Entrei nesse mundo de tecnologia muito cedo, desde os 5 anos (;P)
 
 
 ## Contatos:
